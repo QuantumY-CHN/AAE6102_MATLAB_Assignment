@@ -2,7 +2,7 @@
 
 AAE6102 Satellite Communication and Navigation Assignment
 
-An exercise code to calculate user position and clock bias using raw ranging information and ephemeris data.
+In this exercise code, user position and clock bias will be estimated based on the given single-epoch ranging information and ephemeris data sets rcvr.dat and eph.dat.
 
 Author: Xiaotong Yu
 
